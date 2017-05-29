@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b987041-cb78-4ded-ae6f-b59dc87b73f0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_http_parser.cp36-win_amd64.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_websocket.cp36-win_amd64.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict/_multidict.cp36-win_amd64.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/setuptools-28.8.0-py3.6.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl/_quoting.cp36-win_amd64.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_asyncio.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_bz2.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_ctypes.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_ctypes_test.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_decimal.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_elementtree.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_hashlib.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_lzma.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_msi.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_multiprocessing.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_overlapped.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_socket.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_sqlite3.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_ssl.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_testbuffer.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_testcapi.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_testconsole.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_testimportmultiple.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_testmultiphase.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/_tkinter.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/chardetect.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/easy_install-3.6.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/easy_install.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pip.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pip3.6.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pip3.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pyexpat.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/python.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/python3.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/python36.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pythonw.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/select.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/sqlite3.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/tcl86t.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/tk86t.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/unicodedata.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/vcruntime140.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/winsound.pyd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/py_bot.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Country.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/answersData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countrycap.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp-2.1.0.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_cparser.pxd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_http_parser.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_http_parser.pyx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_websocket.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/_websocket.pyx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/backport_cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/client_exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/client_proto.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/client_reqrep.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/client_ws.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/connector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/cookiejar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/formdata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/hdrs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/http.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/http_exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/http_parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/http_websocket.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/http_writer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/log.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/multipart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/payload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/payload_streamer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/pytest_plugin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/resolver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/streams.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/test_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_fileresponse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_middlewares.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_protocol.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_urldispatcher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/web_ws.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/aiohttp/worker.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout-1.2.1.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/async_timeout/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet-3.0.3.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/cli/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/cli/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/enums.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/langturkishmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/chardet/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/easy-install.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict-2.1.6.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict/__init__.pyi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict/_multidict.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict/_multidict.pyx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/multidict/_multidict_py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/not-zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/appdirs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/database.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ipaddress.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ordereddict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/bar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/counter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pyparsing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/re-vendor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/certs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/retrying.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/basecommand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/baseparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/cmdoptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/check.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/completion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/hash.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/help.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/show.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/dictconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/locations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/check.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/pep425tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_set.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/appdirs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/build.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/deprecation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/encoding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/filesystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/glibc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/hashes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/logging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/outdated.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/packaging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/setuptools_build.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/ui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/bazaar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/git.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/mercurial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/subversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/setuptools.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot-12.0-py3.6.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot-12.0-py3.6.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot-12.0-py3.6.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot-12.0-py3.6.egg-info/installed-files.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot-12.0-py3.6.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot-12.0-py3.6.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/delegate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/hack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/helper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/loop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/aio/routing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/delegate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/exception.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/filtering.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/hack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/helper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/loop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/namedtuple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/telepot/routing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3-1.21.1.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/_securetransport/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/_securetransport/bindings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/_securetransport/low_level.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/appengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/securetransport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/contrib/socks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/backports/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/backports/makefile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/retry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/selectors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/urllib3/util/wait.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl-0.10.2.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl/__init__.pyi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl/_quoting.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl/_quoting.pyx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/site-packages/yarl/quoting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Lib/tcl8.6/init.tcl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/Activate.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/activate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/activate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/deactivate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/easy_install-3.6-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/easy_install-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pip-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pip3-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/Scripts/pip3.6-script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/pip-selfcheck.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/py-bot/pyvenv.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Country.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Country.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countrycap.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countrycap.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="answersData.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answersData.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asnwerData</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Answers.json" />
+        <option value="$PROJECT_DIR$/Country.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py_bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="py_bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="py_bot" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py_bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b987041-cb78-4ded-ae6f-b59dc87b73f0" name="Default" comment="" />
+      <created>1495963800629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495963800629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16792738" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27332243" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countrycap.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answersData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countrycap.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answersData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answersData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countrycap.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Country.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="34" column="36" lean-forward="false" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

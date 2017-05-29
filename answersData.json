@@ -1,0 +1,30 @@
+{
+  "Welcome" : "Welcome to python bot this is one of the awesome bot you will ever see",
+  "badRequest"  : "I cannot handle this task",
+  "lowercaseCountryRequest" : "Country name should be in capital form",
+  "noData" : "No Data",
+  "addsToAnswer" : {
+      "start" : [
+          "Stupid",
+          "Bad",
+          "Incorrect",
+          "Very bad",
+          "Very very bad"
+      ],
+      "end" : [
+          "Incorrect",
+          "Very Incorrect",
+          "Very very incorrect",
+          "Very very very incorrect",
+          "Very very very very incorrect"
+      ]
+  },
+  "countries" : {
+    "Afganistan" : "Kobul",
+    "Kirgizistan" : "Bishkek",
+    "Tadjikistan" : "Dush",
+    "Uzbekistan" : "Tashkent",
+    "Kazakistan" : ""
+  }
+
+}
