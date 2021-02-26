@@ -1,4 +1,4 @@
-aiohttp==2.1.0
+aiohttp==3.7.4
 async-timeout==1.2.1
 chardet==3.0.3
 multidict==2.1.6
